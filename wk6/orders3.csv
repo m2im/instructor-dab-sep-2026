@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,total_amount
+101,1,Jan 15 2023,150.00
+102,3,Jan 20 2023,75.50
+103,1,Feb 5 2023,200.00
+104,2,Feb 10 2023,125.75
+105,NULL,Feb 15 2023,50.25
