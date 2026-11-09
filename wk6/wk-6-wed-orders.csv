@@ -1,0 +1,101 @@
+order_id,customer_id,order_date,region,shipping_method
+1001,1,2023-01-05,North America,Standard
+1002,13,2023-01-07,North America,Express
+1003,21,2023-01-08,Europe,Standard
+1004,29,2023-01-10,Europe,Express
+1005,34,2023-01-12,Europe,Standard
+1006,38,2023-01-15,Europe,Standard
+1007,41,2023-01-18,Europe,Express
+1008,44,2023-01-20,Asia,Standard
+1009,46,2023-01-22,Oceania,Express
+1010,49,2023-01-25,South America,Standard
+1011,2,2023-02-01,North America,Standard
+1012,3,2023-02-03,North America,Express
+1013,14,2023-02-05,North America,Standard
+1014,22,2023-02-08,Europe,Standard
+1015,30,2023-02-10,Europe,Express
+1016,35,2023-02-12,Europe,Standard
+1017,39,2023-02-15,Europe,Express
+1018,42,2023-02-18,Europe,Standard
+1019,45,2023-02-20,Asia,Express
+1020,47,2023-02-22,Oceania,Standard
+1021,1,2023-03-01,North America,Express
+1022,4,2023-03-03,North America,Standard
+1023,15,2023-03-05,North America,Express
+1024,23,2023-03-08,Europe,Standard
+1025,31,2023-03-10,Europe,Express
+1026,36,2023-03-12,Europe,Standard
+1027,38,2023-03-15,Europe,Express
+1028,41,2023-03-18,Europe,Standard
+1029,44,2023-03-20,Asia,Express
+1030,49,2023-03-25,South America,Standard
+1031,5,2023-04-01,North America,Standard
+1032,13,2023-04-04,North America,Express
+1033,16,2023-04-06,North America,Standard
+1034,21,2023-04-09,Europe,Standard
+1035,24,2023-04-11,Europe,Express
+1036,29,2023-04-14,Europe,Standard
+1037,34,2023-04-16,Europe,Express
+1038,42,2023-04-19,Europe,Standard
+1039,46,2023-04-21,Oceania,Express
+1040,50,2023-04-24,South America,Standard
+1041,1,2023-05-01,North America,Express
+1042,6,2023-05-03,North America,Standard
+1043,13,2023-05-05,North America,Express
+1044,17,2023-05-07,North America,Standard
+1045,22,2023-05-10,Europe,Express
+1046,25,2023-05-12,Europe,Standard
+1047,30,2023-05-15,Europe,Express
+1048,35,2023-05-17,Europe,Standard
+1049,39,2023-05-20,Europe,Express
+1050,45,2023-05-22,Asia,Standard
+1051,7,2023-06-01,North America,Express
+1052,14,2023-06-04,North America,Standard
+1053,18,2023-06-06,North America,Express
+1054,23,2023-06-09,Europe,Standard
+1055,31,2023-06-11,Europe,Express
+1056,36,2023-06-14,Europe,Standard
+1057,41,2023-06-16,Europe,Express
+1058,44,2023-06-19,Asia,Standard
+1059,47,2023-06-21,Oceania,Express
+1060,49,2023-06-24,South America,Standard
+1061,2,2023-07-01,North America,Express
+1062,8,2023-07-03,North America,Standard
+1063,13,2023-07-05,North America,Express
+1064,15,2023-07-07,North America,Standard
+1065,21,2023-07-10,Europe,Express
+1066,24,2023-07-12,Europe,Standard
+1067,29,2023-07-15,Europe,Express
+1068,34,2023-07-17,Europe,Standard
+1069,38,2023-07-20,Europe,Express
+1070,46,2023-07-22,Oceania,Standard
+1071,3,2023-08-01,North America,Express
+1072,9,2023-08-03,North America,Standard
+1073,14,2023-08-05,North America,Express
+1074,16,2023-08-07,North America,Standard
+1075,22,2023-08-10,Europe,Express
+1076,30,2023-08-12,Europe,Standard
+1077,35,2023-08-15,Europe,Express
+1078,39,2023-08-17,Europe,Standard
+1079,42,2023-08-20,Europe,Express
+1080,44,2023-08-22,Asia,Standard
+1081,4,2023-09-01,North America,Express
+1082,10,2023-09-03,North America,Standard
+1083,13,2023-09-05,North America,Express
+1084,17,2023-09-07,North America,Standard
+1085,23,2023-09-10,Europe,Express
+1086,31,2023-09-12,Europe,Standard
+1087,36,2023-09-15,Europe,Express
+1088,41,2023-09-17,Europe,Standard
+1089,45,2023-09-20,Asia,Express
+1090,47,2023-09-22,Oceania,Standard
+1091,1,2023-10-01,North America,Express
+1092,5,2023-10-03,North America,Standard
+1093,14,2023-10-05,North America,Express
+1094,18,2023-10-07,North America,Standard
+1095,21,2023-10-10,Europe,Express
+1096,24,2023-10-12,Europe,Standard
+1097,29,2023-10-15,Europe,Express
+1098,34,2023-10-17,Europe,Standard
+1099,38,2023-10-20,Europe,Express
+1100,49,2023-10-22,South America,Standard

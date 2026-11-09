@@ -1,0 +1,31 @@
+product_id,product_name,category,price,units_in_stock,supplier_id
+1,Organic Coffee Beans,Beverages,12.99,145,3
+2,Earl Grey Tea,Beverages,8.50,230,3
+3,Chamomile Tea,Beverages,7.99,180,3
+4,Green Tea,Beverages,9.50,200,2
+5,Chocolate Chip Cookies,Confections,4.99,320,1
+6,Shortbread Cookies,Confections,5.50,250,1
+7,Dark Chocolate Bar,Confections,3.99,400,4
+8,Milk Chocolate Bar,Confections,3.50,380,4
+9,Whole Wheat Bread,Grains/Cereals,4.25,85,5
+10,Multigrain Bread,Grains/Cereals,4.50,75,5
+11,Rye Bread,Grains/Cereals,4.99,60,5
+12,Organic Quinoa,Grains/Cereals,8.99,120,6
+13,Extra Virgin Olive Oil,Condiments,15.99,110,7
+14,Balsamic Vinegar,Condiments,12.50,90,7
+15,Dijon Mustard,Condiments,4.25,150,8
+16,Hot Sauce,Condiments,5.99,200,8
+17,Organic Apples,Produce,3.99,200,9
+18,Organic Bananas,Produce,2.99,350,9
+19,Organic Spinach,Produce,4.50,100,10
+20,Organic Carrots,Produce,3.25,180,10
+21,Cheddar Cheese,Dairy Products,6.99,120,11
+22,Gouda Cheese,Dairy Products,8.50,80,11
+23,Greek Yogurt,Dairy Products,4.99,150,12
+24,Organic Milk,Dairy Products,5.25,100,12
+25,Atlantic Salmon,Seafood,15.99,60,13
+26,Tuna Steaks,Seafood,12.99,45,13
+27,Jumbo Shrimp,Seafood,18.50,30,14
+28,Wild Cod Fillets,Seafood,13.99,40,14
+29,Free-Range Chicken,Meat/Poultry,9.99,75,15
+30,Grass-Fed Beef,Meat/Poultry,14.99,50,15
