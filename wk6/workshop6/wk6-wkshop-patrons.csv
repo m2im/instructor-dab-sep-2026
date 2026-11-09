@@ -1,0 +1,17 @@
+patron_id,first_name,last_name,email,address,city,registration_date,branch_id
+101,John,Smith,john.smith@email.com,111 First St,Springfield,2022-01-15,1
+102,Sarah,Johnson,sarah.j@email.com,222 Second St,Springfield,2022-02-20,1
+103,Michael,Brown,michael.b@email.com,333 Third St,Springfield,2022-03-10,2
+104,Emma,Wilson,emma.w@email.com,444 Fourth St,Springfield,2022-03-15,2
+105,James,Davis,james.d@email.com,555 Fifth St,Northville,2022-04-05,4
+106,Patricia,Miller,patricia.m@email.com,666 Sixth St,Springfield,2022-05-12,3
+107,Robert,Taylor,robert.t@email.com,777 Seventh St,Northville,2022-06-18,4
+108,Linda,Anderson,linda.a@email.com,888 Eighth St,Springfield,2022-07-22,3
+109,David,Thomas,david.t@email.com,999 Ninth St,Riverside,2022-08-05,6
+110,Jennifer,Jackson,jennifer.j@email.com,101 Tenth St,Springfield,2022-08-15,5
+111,William,White,william.w@email.com,202 Eleventh St,Centerville,2022-09-10,7
+112,Maria,Garcia,maria.g@email.com,303 Twelfth St,Springfield,2022-09-22,1
+113,Richard,Martinez,richard.m@email.com,404 Park Ave,Oakwood,2022-10-08,8
+114,Elizabeth,Robinson,elizabeth.r@email.com,505 Maple St,Springfield,2022-10-20,2
+115,Joseph,Clark,joseph.c@email.com,606 Pine St,Riverside,2022-11-05,6
+116,Susan,Rodriguez,susan.r@email.com,707 Cedar St,Centerville,2022-11-15,7
