@@ -1,0 +1,107 @@
+customer_id,name,email,age,location,join_date,last_purchase_date,order_total,items_purchased,preferred_category
+CUST0001,John Smith,john.smith@gmail.com,32,New York,2023-06-15,06/20/2024,85.99,3,Electronics
+CUST0002,Mary Johnson,mary.johnson@yahoo.com,,Los Angeles,2023-08-22,09/15/2024,64.50,2,Clothing
+CUST0003,Robert Williams,r.williams@hotmail.com,45,Chicago,2022-11-30,01/22/2025,125.75,5,Books
+CUST0004,jennifer Brown,jennifer.brown@outlook.com,29,NYC,2024-01-18,,,,Beauty
+CUST0005,MICHAEL Garcia,michael.garcia@gmail.com,68,Houston,2023-04-07,05/30/2024,42.99,2,home & kitchen
+CUST0006,Linda  Miller,linda.miller@yahoo.com,41,Phoenix,2023-09-12,10/05/2024,199.99,8,ELECTRONICS
+CUST0007,William Davis,williamdavis@gmail.com,37,San Diego,2022-07-29,08/15/2024,78.25,3,
+CUST0008,Elizabeth Rodriguez,e.rodriguez@outlook.com,,LA,2023-10-05,11/20/2024,56.75,2,Books
+CUST0009,David Martinez,dmartinez@yahoo.com,28,Dallas,2023-03-18,02/10/2025,92.50,4,Clothing
+CUST0010,Susan Thompson,susan.thompson@gmail.com,39,Chicago,2022-12-05,12/26/2024,67.99,3,Home & Kitchen
+CUST0001,John Smith,john.smith@gmail.com,32,New York,2023-06-15,09/05/2024,110.25,4,Electronics
+CUST0011,Richard Anderson,richard.anderson@hotmail.com,52,Philadelphia,2023-01-30,05/15/2024,45.75,2,Books
+CUST0012,JESSICA Thomas,jthomas@gmail.com,31,San Antonio,2022-09-08,11/05/2024,89.99,4,Beauty
+CUST0013,Joseph Jackson,joe.jackson@outlook.com,47,San Jose,2023-07-14,08/25/2024,62.50,3,Sports & Outdoors
+CUST0014,sarah White,sarah.white@yahoo.com,,Houston,2024-02-20,03/15/2025,134.99,5,Electronics
+CUST0015,Thomas Harris,t.harris@gmail.com,61,Phoenix,2022-06-25,,,,
+CUST0016,Karen Martin,kmartin@outlook.com,33,NYC,2023-05-09,07/12/2024,74.50,3,Clothing
+CUST0017,Charles Thompson,charles.thompson@gmail.com,49,LA,2022-10-18,12/05/2024,95.25,4,grocery
+CUST0018,Nancy Moore,nancy.moore@yahoo.com,35,Dallas,2023-11-29,01/30/2025,55.99,2,Health & Personal Care
+CUST0019,Christopher Allen,c.allen@hotmail.com,42,Chicago,2023-02-07,06/10/2024,82.75,3,Books
+CUST0020,Sandra Scott,sandra@gmail.com,29,San Diego,2022-08-15,10/22/2024,499.99,15,Electronics
+CUST0021,Kenneth Green,kgreen@yahoo.com,38,New York,2023-12-10,02/15/2025,69.50,3,Clothing
+CUST0022,Donna Baker,donnabaker@outlook.com,44,Phoenix,2022-05-03,07/18/2024,73.25,3,Toys & Games
+CUST0023,Steven Nelson,s.nelson@gmail.com,,Philadelphia,2023-09-25,11/08/2024,88.99,4,Home & Kitchen
+CUST0024,Carol Carter,carol.carter@yahoo.com,56,CHI,2022-11-12,01/05/2025,999.99,20,Electronics
+CUST0025,Mark Mitchell,m.mitchell@hotmail.com,39,Houston,2023-03-30,05/20/2024,59.75,2,SPORTS & OUTDOORS
+CUST0026,Ruth Perez,ruth.perez@gmail.com,27,San Antonio,2024-01-05,03/10/2025,102.50,4,Beauty
+CUST0027,Larry Roberts,larry.roberts@outlook.com,53,Dallas,2022-07-22,,,,Books
+CUST0028,Lisa Turner,lisaturner@yahoo.com,36,San Jose,2023-10-17,12/15/2024,67.99,3,Clothing
+CUST0029,Paul Phillips,p.phillips@gmail.com,41,NYC,2022-12-28,02/08/2025,79.25,3,Electronics
+CUST0030,Betty Campbell,betty.campbell@hotmail.com,33,LA,2023-06-09,08/22/2024,48.50,2,Home & Kitchen
+CUST0002,Mary Johnson,mary.johnson@yahoo.com,,Los Angeles,2023-08-22,09/15/2024,64.50,2,Clothing
+CUST0031,Daniel Evans,d.evans@yahoo.com,47,Chicago,2022-04-15,06/30/2024,71.99,3,Books
+CUST0032,Deborah Collins,deb.collins@gmail.com,39,Phoenix,2023-08-05,10/12/2024,93.75,4,Clothing
+CUST0033,Donald Edwards,dedwards@outlook.com,58,Houston,2022-10-30,12/20/2024,62.25,3,grocery
+CUST0034,Dorothy Stewart,dorothy.s@yahoo.com,34,New York,2023-02-25,04/18/2024,145.99,6,Electronics
+CUST0035,george  Sanchez,gsanchez@gmail.com,,Philadelphia,2023-07-03,09/15/2024,52.50,2,Sports & Outdoors
+CUST0036,JENNIFER Morris,j.morris@hotmail.com,43,San Diego,2022-09-21,11/10/2024,79.99,3,Books
+CUST0037,Edward Rogers,e.rogers@outlook.com,52,Dallas,2023-12-04,02/20/2025,67.75,3,Home & Kitchen
+CUST0038,Margaret Reed,margaret.reed@yahoo.com,37,Chicago,2022-05-18,07/25/2024,0.99,1,Beauty
+CUST0039,Brian Cook,brian.cook@gmail.com,45,San Antonio,2023-01-13,03/05/2025,84.50,3,health & personal care
+CUST0040,Carolyn Morgan,c.morgan@outlook.com,31,San Jose,2023-11-22,01/08/2025,249.99,10,Electronics
+CUST0041,Ronald Bell,ronaldbell@yahoo.com,49,LA,2022-06-14,,,,Clothing
+CUST0042,Shirley Murphy,s.murphy@gmail.com,38,Phoenix,2023-09-05,11/15/2024,77.25,3,Books
+CUST0043,Anthony Bailey,a.bailey@hotmail.com,50,Houston,2022-12-19,02/28/2025,65.99,3,Home & Kitchen
+CUST0044,Helen Rivera,helenrivera@outlook.com,35,Dallas,2023-04-02,06/10/2024,89.50,4,ELECTRONICS
+CUST0045,Kevin Cooper,k.cooper@yahoo.com,,NYC,2023-07-28,09/22/2024,72.75,3,Clothing
+CUST0006,Linda  Miller,linda.miller@yahoo.com,41,Phoenix,2023-09-12,10/05/2024,199.99,8,ELECTRONICS
+CUST0046,Sharon Richardson,sharon.r@gmail.com,57,Chicago,2022-08-09,10/15/2024,58.99,2,Books
+CUST0047,Jason Cox,jason.cox@outlook.com,32,Philadelphia,2023-01-24,03/30/2024,81.50,3,Sports & Outdoors
+CUST0048,kathleen Howard,kathleenhoward@yahoo.com,44,San Diego,2023-11-07,01/15/2025,68.25,3,Beauty
+CUST0049,Samuel Ward,s.ward@gmail.com,40,San Antonio,2022-03-31,06/05/2024,94.99,4,Home & Kitchen
+CUST0050,Rebecca Torres,rebecca.torres@hotmail.com,33,Houston,2023-06-26,08/18/2024,55.50,2,Clothing
+CUST0051,Jeffrey Peterson,j.peterson@yahoo.com,51,New York,2022-10-12,12/25/2024,76.75,3,Books
+CUST0052,Judith Gray,judithgray@gmail.com,36,Dallas,2023-03-05,05/15/2024,112.99,5,Electronics
+CUST0053,Jacob Ramirez,j.ramirez@outlook.com,,LA,2023-08-17,10/30/2024,62.25,2,grocery
+CUST0054,Virginia James,virginia.james@yahoo.com,47,Chicago,2022-05-29,07/10/2024,79.50,3,Home & Kitchen
+CUST0055,Gary Watson,gary.watson@gmail.com,39,San Jose,2023-12-22,02/05/2025,66.99,3,Clothing
+CUST0056,Jean Brooks,jean.brooks@hotmail.com,54,Phoenix,2022-07-15,,,,Beauty
+CUST0057,Jonathan Kelly,j.kelly@outlook.com,30,Philadelphia,2023-09-30,11/20/2024,88.75,4,Sports & Outdoors
+CUST0058,Judith Sanders,judith.s@yahoo.com,42,San Antonio,2023-02-14,04/05/2024,59.99,2,Books
+CUST0055,Gary Watson,gary.watson@gmail.com,39,San Jose,2023-12-22,03/12/2025,129.50,5,Clothing
+CUST0059,Arthur Price,arthur.price@gmail.com,48,NYC,2022-11-01,01/15/2025,74.25,3,Electronics
+CUST0060,Ann Bennett,ann.bennett@outlook.com,34,Houston,2023-04-20,06/25/2024,52.99,2,Home & Kitchen
+CUST0061,Lawrence Wood,l.wood@yahoo.com,49,Chicago,2022-08-27,10/10/2024,64.50,3,Books
+CUST0062,DIANE Barnes,diane.barnes@gmail.com,,Dallas,2023-01-08,03/20/2024,95.75,4,Clothing
+CUST0063,Nicholas Ross,n.ross@hotmail.com,38,San Diego,2023-06-03,08/12/2024,77.99,3,ELECTRONICS
+CUST0064,Brenda Henderson,brenda@outlook.com,52,Phoenix,2022-09-15,,,,
+CUST0065,gerald  Perry,gerald.perry@yahoo.com,36,LA,2023-02-28,04/10/2024,68.50,3,Home & Kitchen
+CUST0066,Christine Coleman,c.coleman@gmail.com,47,New York,2023-07-22,09/30/2024,83.25,3,Sports & Outdoors
+CUST0067,Randy Jenkins,r.jenkins@outlook.com,33,Houston,2022-12-10,02/15/2025,0.99,1,Beauty
+CUST0068,Lori Powell,lori.powell@yahoo.com,41,Philadelphia,2023-05-05,07/12/2024,97.99,4,Books
+CUST0069,Frank Long,franklonggmail.com,55,Chicago,2022-10-23,12/05/2024,62.75,3,Grocery
+CUST0070,Teresa Patterson,t.patterson@hotmail.com,39,San Antonio,2023-03-17,05/25/2024,109.50,4,Electronics
+CUST0071,Jerry Hughes,jerry.hughes@outlook.com,,San Jose,2023-08-30,10/15/2024,71.25,3,Clothing
+CUST0072,Evelyn Flores,e.flores@yahoo.com,43,Dallas,2022-05-12,07/20/2024,85.99,3,Home & Kitchen
+CUST0073,Dennis Washington,d.washington@gmail.com,37,NYC,2023-11-15,01/25/2025,999.99,25,TOYS & GAMES
+CUST0074,Gloria Butler,gloria.butler@hotmail.com,51,Phoenix,2023-04-08,06/15/2024,57.50,2,Books
+CUST0075,Walter Simmons,w.simmons@outlook.com,34,LA,2022-09-28,11/10/2024,75.25,3,Sports & Outdoors
+CUST0076,Phyllis Foster,phyllis.f@yahoo.com,46,Houston,2023-02-03,04/20/2024,63.99,3,Beauty
+CUST0077,Henry  Gonzales,henry.g@gmail.com,39,Chicago,2023-07-16,09/05/2024,92.50,4,Clothing
+CUST0078,alice Bryant,alicebryant@hotmail.com,,Philadelphia,2022-12-01,01/30/2025,68.75,3,Electronics
+CUST0079,Wayne Alexander,wayne.a@outlook.com,53,San Diego,2023-04-25,06/10/2024,79.99,3,Home & Kitchen
+CUST0080,BEVERLY Russell,beverly.russell@yahoo.com,35,New York,2022-08-14,10/22/2024,54.25,2,grocery
+CUST0081,Harold Griffin,h.griffin@gmail.com,48,San Antonio,2023-01-19,03/05/2025,88.50,4,Books
+CUST0082,Denise Diaz,denise.diaz@hotmail.com,40,Dallas,2023-06-12,08/20/2024,499.99,12,Electronics
+CUST0083,Billy Hayes,billy.hayes@outlook.com,59,Phoenix,2022-11-08,,,,Clothing
+CUST0084,Lillian Myers,l.myers@yahoo.com,34,Chicago,2023-03-24,05/15/2024,72.99,3,Home & Kitchen
+CUST0083,Billy Hayes,billy.hayes@outlook.com,59,Phoenix,2022-11-08,01/12/2025,118.50,5,Clothing
+CUST0085,Jeremy Ford,j.ford@gmail.com,43,Houston,2023-08-07,10/25/2024,65.75,3,Books
+CUST0086,Kathryn Hamilton,kathryn.h@hotmail.com,31,NYC,2022-06-21,08/10/2024,80.99,3,Beauty
+CUST0087,Ralph Graham,ralph.graham@outlook.com,,LA,2023-12-15,02/28/2025,57.50,2,Sports & Outdoors
+CUST0088,Jean Sullivan,jean.sullivan@yahoo.com,50,Philadelphia,2023-05-29,07/15/2024,93.25,4,Electronics
+CUST0089,noah Wallace,noah.wallace@gmail.com,38,San Diego,2022-10-04,12/12/2024,64.99,3,home & kitchen
+CUST0090,Cheryl Woods,cheryl.woods@hotmail.com,45,San Antonio,2023-02-18,04/05/2024,78.50,3,Books
+CUST0091,Edwin Cole,edwin.cole@outlook.com,36,San Jose,2023-07-11,09/20/2024,67.75,3,Clothing
+CUST0092,marilyn West,marilyn.west@yahoo.com,49,Dallas,2022-04-27,06/30/2024,249.99,8,ELECTRONICS
+CUST0093,Peter Jordan,peter.jordan@gmail.com,,Chicago,2023-09-20,11/15/2024,58.50,2,Beauty
+CUST0094,Tammy Owens,tammy.owens@hotmail.com,41,New York,2023-01-03,03/10/2025,87.99,4,GROCERY
+CUST0095,Victor Reynolds,v.reynolds@outlook.com,57,Houston,2022-08-02,10/05/2024,69.75,3,Home & Kitchen
+CUST0096,Gloria Kim,gloriakim@yahoo.com,32,Phoenix,2023-12-28,02/15/2025,76.50,3,Sports & Outdoors
+CUST0097,Bernard Ferguson,b.ferguson@gmail.com,44,Philadelphia,2022-05-21,,,,Books
+CUST0098,Doris Gardner,doris.gardner@hotmail.com,39,NYC,2023-10-09,12/20/2024,89.99,4,Clothing
+CUST0099,Johnny Stephens,johnny@outlook.com,51,LA,2023-03-12,05/05/2024,62.25,2,Electronics
+CUST0100,Kathy Payne,kathy.payne@yahoo.com,35,Chicago,2022-07-07,09/15/2024,999.99,24,Toys & Games
+CUST0070,Teresa Patterson,t.patterson@hotmail.com,39,San Antonio,2023-03-17,05/25/2024,109.50,4,Electronics
